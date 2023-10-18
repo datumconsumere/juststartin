@@ -5,6 +5,7 @@
 3. Git comfortable using GITHUB services
 ---
 **keep on trying until I get it**
+
 *might take some work*
 > could be some silly experiments, but hey, you have to start somewhere.
 ---
